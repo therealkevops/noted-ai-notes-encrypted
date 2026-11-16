@@ -1,0 +1,12 @@
+{
+  "format": "noted-ai-encryption",
+  "version": 1,
+  "kdf": {
+    "name": "PBKDF2",
+    "hash": "SHA-256",
+    "iterations": 600000,
+    "salt": "0sLGPE0UOasD/9sYFkwM3g=="
+  },
+  "wrappedKey": "/adtG8ByKvetiDO4N4F/bGvb69wS7QZqkU3XCLOBeBtYSgk4Ui2PYYq6x4bwjTFUAQvt/a3dLaUnyQJx",
+  "keyCheck": "DP5cH780OrrZRx50Mif2Zw=="
+}
